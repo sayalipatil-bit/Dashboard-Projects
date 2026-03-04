@@ -13,4 +13,5 @@ This dashboard analyzes ER patient trends, waiting time, and admission rates.
 Hospital Emergency Room Data.csv
 
 ## Dashboard Preview
-<img width="1227" height="594" alt="image" src="https://github.com/user-attachments/assets/d767ad5d-80e3-4887-a4c3-efb685bf65ca" />
+<img width="1226" height="588" alt="image" src="https://github.com/user-attachments/assets/b0459296-cd1c-48b0-890b-ee7d4df036b6" />
+
